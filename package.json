@@ -37,6 +37,9 @@
             }
         }
     },
+    "repository": {
+        "url": "https://github.com/TheOneSock/vsjira.git"
+    },
     "scripts": {
         "vscode:prepublish": "npm run compile",
         "compile": "tsc -p ./",
