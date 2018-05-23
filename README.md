@@ -8,8 +8,9 @@ Makes jira information easier to access in markdowns.
 
 1. jira task names (example.: TST-123) are treated as links and can be control clicked to follow them
 2. hovering over a task name opens a hover with its summary
-
-![link and hover](doc/hover_link.gif)
+    ![link and hover](doc/hover_link.gif)
+3. expanding a task name into a summary with a link with code actions (**ctrl + .**)
+    ![expand to summary](doc/expand_summary.gif)
 
 ## Requirements
 
